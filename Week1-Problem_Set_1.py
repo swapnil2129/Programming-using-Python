@@ -23,7 +23,7 @@ print('Number of vowels: '+str(count) )
 # In[2]:
 
 numberofbob=0
-s='bobthebobby'
+s='bobthkebobby'
 for i in range(0,len(s)):
     a=s[i:(i+3)]
     if a =='bob':
