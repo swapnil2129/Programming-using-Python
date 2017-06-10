@@ -209,7 +209,7 @@ def polysum(n,s):
 polysum(22,56)
 
 
-# In[ ]:
+
 
 
 
