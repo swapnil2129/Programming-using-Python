@@ -166,7 +166,6 @@ def hangman(secretWord):
 hangman(secretWord)
 
 
-
 # In[ ]:
 
 
