@@ -239,7 +239,6 @@ hangman(secretWord)
     Sorry, you ran out of guesses. The word was misted.
     
 
-
 ```python
 
 ```
